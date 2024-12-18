@@ -67,19 +67,13 @@ POST /api/products/
 
 📈 Interaction Endpoints:
 
-Log User Interaction:
-POST /api/interactions/
-Request Body:
-json
-Copy code
-{
-  "user": 1,
-  "product": 1,
-  "action": "view"
-}
-🎯 Recommendation Endpoint
+Log User Interaction: POST /api/interactions/
+
+🎯 Recommendation Endpoint:
+
 Get Product Recommendations:
 GET /api/recommendations/<user_id>/
+
 🧪 Running Tests
 Run the following command to execute unit tests and verify the functionality:
 
