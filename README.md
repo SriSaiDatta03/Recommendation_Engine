@@ -54,15 +54,18 @@ python manage.py runserver
 Visit http://127.0.0.1:8000/ in your browser.
 
 
-📡 API Endpoints
-🔍 Product Endpoints
+📡 API Endpoints :
+
+🔍 Product Endpoints:
+
 Get All Products:
 GET /api/products/
 
 Add a New Product:
 POST /api/products/
 
-📈 Interaction Endpoints
+📈 Interaction Endpoints:
+
 Log User Interaction:
 POST /api/interactions/
 Request Body:
