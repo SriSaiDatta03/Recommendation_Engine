@@ -53,6 +53,7 @@ python manage.py runserver
 ```
 Visit http://127.0.0.1:8000/ in your browser.
 
+---
 
 📡 API Endpoints :
 
@@ -82,9 +83,11 @@ GET /api/recommendations/<user_id>/
 🧪 Running Tests
 Run the following command to execute unit tests and verify the functionality:
 
-bash
+```bash
 
 python manage.py test
+```
+---
 🌟 Project Highlights
 Efficient Algorithms: Generates accurate recommendations based on user interactions.
 Scalable Design: Easily extendable to support more features and larger datasets.
@@ -93,12 +96,13 @@ RESTful API: Integrates smoothly with front-end applications.
 📊 Integration with advanced recommendation algorithms (e.g., collaborative filtering).
 ☁️ Cloud deployment for wider accessibility.
 🖥️ Admin dashboard for detailed analytics.
+---
 🧑‍💻 Contributing
 Contributions are welcome! Feel free to fork the repository, create a branch, and submit a pull request. 🎉
-
+---
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
+---
 💬 Contact
 👤 Sri Sai Datta Bhogapurapu
 📧 Email: srisaidattabhogapurapu2003@gmail.com
