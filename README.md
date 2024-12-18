@@ -27,7 +27,7 @@
    git clone https://github.com/SriSaiDatta03/Recommendation_Engine.git
    cd Recommendation_Engine
 Set Up a Virtual Environment:
-```bash
+  ```bash
 
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -35,21 +35,24 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 Install Dependencies:
 
-```bash
+  ```bash
 
 pip install -r requirements.txt
-Run Database Migrations:
 ```
-```bash
+Run Database Migrations:
+
+  ```bash
 
 python manage.py migrate
-Start the Development Server:
 ```
-```bash
+Start the Development Server:
+
+  ```bash
 
 python manage.py runserver
-Visit http://127.0.0.1:8000/ in your browser.
 ```
+Visit http://127.0.0.1:8000/ in your browser.
+
 
 📡 API Endpoints
 🔍 Product Endpoints
