@@ -89,9 +89,10 @@ Efficient Algorithms: Generates accurate recommendations based on user interacti
 Scalable Design: Easily extendable to support more features and larger datasets.
 
 RESTful API: Integrates smoothly with front-end applications.
+
 ---
 🛡️ Future Enhancements:
-
+---
 📊 Integration with advanced recommendation algorithms (e.g., collaborative filtering).
 ☁️ Cloud deployment for wider accessibility.
 🖥️ Admin dashboard for detailed analytics.
