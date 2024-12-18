@@ -94,7 +94,9 @@ RESTful API: Integrates smoothly with front-end applications.
 🛡️ Future Enhancements:
 -
 📊 Integration with advanced recommendation algorithms (e.g., collaborative filtering).
+
 ☁️ Cloud deployment for wider accessibility.
+
 🖥️ Admin dashboard for detailed analytics.
 
 ---
@@ -106,7 +108,9 @@ Contributions are welcome! Feel free to fork the repository, create a branch, an
 💬 Contact:
 -
 👤 Sri Sai Datta Bhogapurapu
+
 📧 Email: srisaidattabhogapurapu2003@gmail.com
+
 🌐 GitHub: SriSaiDatta03
 
                                                                 Happy Coding! 😄✨
